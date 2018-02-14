@@ -8,4 +8,4 @@ def square_array(array)
   # your code here
 end
 
-def square_array(numbers)
+square_array(numbers)

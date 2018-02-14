@@ -8,4 +8,4 @@ new_array = []
   new_array
 end
 
-square_array(numbers)
+

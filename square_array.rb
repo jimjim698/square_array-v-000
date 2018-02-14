@@ -7,3 +7,5 @@ new_array = []
   # your code here
   new_array
 end
+
+square_array(array)

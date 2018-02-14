@@ -6,5 +6,3 @@ new_array = []
   end
   # your code here
 end
-
-

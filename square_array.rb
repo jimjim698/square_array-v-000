@@ -7,4 +7,4 @@ new_array = []
   # your code here
 end
 
-square_array(numbers)
+

@@ -7,5 +7,3 @@ new_array = []
   # your code here
   new_array
 end
-
-

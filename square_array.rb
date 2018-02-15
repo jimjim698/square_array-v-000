@@ -7,3 +7,5 @@ new_array = []
   # your code here
   new_array
 end
+
+numbers.collect {|number| number ** 2} 
